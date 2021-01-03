@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">بنك الدم الإلكتروني السوري</string>
+    <string name="title_home">Home</string>
+
+    <string-array name="bloods">
+        <item>فصيلة الدم</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+    <string-array name="states">
+        <item>المحافظة</item>
+        <item>Homs</item>
+    </string-array>
+    <string-array name="areas">
+        <item>المنطقة</item>
+        <item>AlZahraa</item>
+        <item>AlKhledia</item>
+        <item>Der Balaba</item>
+        <item>Al Kosor</item>
+        <item>Al Nezha</item>
+        <item>Al Enchaat</item>
+        <item>Bab Todmor</item>
+        <item>Bab Altorkman</item>
+        <item>Bab Alsebaa</item>
+        <item>Bab hod</item>
+        <item>Bestan AlDewan</item>
+        <item>Altawzee AlEgbaree</item>
+        <item>Algamaa</item>
+        <item>Alhamraa</item>
+        <item>Alhamedia</item>
+        <item>Alkhder</item>
+        <item>Aldablan</item>
+        <item>Aladawia</item>
+        <item>Akrma Aljadeda</item>
+        <item>Akrma AlKadema </item>
+        <item>Alghota</item>
+        <item>Alkarabis</item>
+        <item>Karm Al Zaitoun</item>
+        <item>Karm Al Shami</item>
+        <item>Karm Alloz</item>
+        <item>Wadi Al Zahab</item>
+        <item>AlWarsha</item>
+        <item>Alwaaer Aljaded</item>
+
+
+    </string-array>
+    <string name="title_activity_information">Information</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+
+    </string>
+    <string name="title_activity_test">Test</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
